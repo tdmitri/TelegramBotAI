@@ -2,8 +2,8 @@
 Telegram Bot To Classify Images in Python (CIFAR-10)
 
 
-https://www.tensorflow.org/api_docs/python/
-https://www.cs.toronto.edu/~kriz/cifar.html
+- https://www.tensorflow.org/api_docs/python/
+- https://www.cs.toronto.edu/~kriz/cifar.html
 
 Libraries:
  - pip install tensorflow
