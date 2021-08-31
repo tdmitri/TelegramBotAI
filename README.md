@@ -9,4 +9,4 @@ Libraries:
  - pip install tensorflow
  - pip install numpy
  - pip install opencv-python
- - pip install python-telegram-bo
+ - pip install python-telegram-bot
