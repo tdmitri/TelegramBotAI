@@ -1,7 +1,3 @@
-# Bot name: dmt_test_ai_bot
-# https://www.tensorflow.org/api_docs/python/
-# https://www.cs.toronto.edu/~kriz/cifar.html
-
 from telegram.ext import *
 from io import BytesIO
 import cv2
